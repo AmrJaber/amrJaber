@@ -1,5 +1,5 @@
 <h1 align="center">AmrJaber 🧛🏻</h1>
-<h3 align="center">Mobile Developer (Android & iOS) | Data • AI • Automation</h3>
+<h3 align="center"> Flutter Mobile Developer  (Android & iOS) | Data • AI • Automation</h3>
 
 <p align="center">
 Flutter (Android & iOS) • Data Science • AI Automation • Networks & Security
