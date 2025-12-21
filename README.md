@@ -1,7 +1,7 @@
-# amrJaber 🧛🏻
+# AmrJaber 🧛🏻
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amrJaber/amrJaber/main/header.png" alt="Amr Jaber | Flutter • Data Science • AI Automation" width="100%" />
+  <img src="https://github.com/amrjaberj1-maker/amrjaber/raw/main/header.png" alt="Header" width="100%" />
 </p>
 
 **Amr Jaber :**
