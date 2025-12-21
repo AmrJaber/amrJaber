@@ -1,43 +1,123 @@
-# AmrJaber 🧛🏻
+<h1 align="center">AmrJaber 🧛🏻</h1>
+<h3 align="center">Mobile Developer (Android & iOS)| Data • AI • Automation</h3>
 
 <p align="center">
-  <img src="https://github.com/amrjaberj1-maker/amrjaber/raw/main/header.png" alt="Header" width="100%" />
+Flutter (Android & iOS) • Data Science • AI Automation • Networks & Security
 </p>
 
-Amr Jaber :
-Flutter Developer (Android & iOS) • Data Science • AI Automation • Networks & Security
+---
+
+## 🌍 About Me
+
+ strong practical experience in Flutter mobile development,  
+solid foundations in Data Science & AI Automation, and technical knowledge in  
+Networks & Cybersecurity.
+
+Focused on real-world projects, clean architecture, and continuous learning,  
+with the goal of joining international technology companies.
 
 ---
 
-## 🧠 المهارات التقنية
+## 🧠 Programming Languages
 
-* Mobile Development: Flutter, Dart, Clean Architecture, State Management, RESTful APIs
-* Data Science: Python, Pandas, NumPy, Data Analysis
-* AI Automation: API Integration, Task Automation, AI-based Workflows
-* Networks & Security: Networking Fundamentals, Security Concepts, Secure Practices
-* Development Tools: Git, GitHub, CI/CD Basics, Agile Methodologies
-
----
-
-## 🚀 المشاريع
-
-> أمثلة على أعمال وتقنيات مستخدمة (يفضل ربطها بمستودعات فعلية)
-
-* Flutter Mobile Application
-  تطبيق متعدد المنصات باستخدام Flutter، يعتمد على Clean Architecture مع فصل واضح للطبقات وربط خدمات خارجية عبر APIs.
-
-* Data Science Project
-  مشروع تحليل بيانات باستخدام Python لاستخراج مؤشرات وتحسين اتخاذ القرار.
-
-* AI Automation Solution
-  أتمتة عمليات باستخدام تكاملات API وتقنيات الذكاء الاصطناعي لتحسين الكفاءة.
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42"/>
+</p>
 
 ---
 
-## 📫 التواصل
+## 🛠 Technologies & Tools
 
-* GitHub: [https://github.com/amrJaber](https://github.com/amrJaber)
-* Email: [amrjaberj1@gmail.com](amrjaberj1@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/amr-jaber-eng
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+</p>
 
 ---
+
+## 📂 Projects
+
+### 📱 Flutter Projects
+Task Management App  
+Cross-platform Flutter application with Firebase authentication and real-time data.  
+🔗 https://github.com/YourRepoLink
+
+Weather App  
+Flutter app consuming REST APIs for live weather updates.  
+🔗 https://github.com/YourRepoLink
+
+---
+
+### 📊 Data Science Projects
+Sales Data Analysis  
+Exploratory Data Analysis using Pandas & Matplotlib.  
+🔗 https://github.com/YourRepoLink
+
+Customer Segmentation (ML)  
+Machine learning clustering model for customer behavior analysis.  
+🔗 https://github.com/YourRepoLink
+
+---
+
+### 🤖 AI & Automation Projects
+Automated Data Processor  
+Python automation scripts for cleaning and processing datasets.  
+🔗 https://github.com/YourRepoLink
+
+AI Prediction Model  
+Basic AI model trained on real-world datasets.  
+🔗 https://github.com/YourRepoLink
+
+---
+
+### 🔐 Networks & Security Projects
+Network Fundamentals Lab  
+Hands-on labs covering routing, switching, and network concepts.  
+🔗 https://github.com/YourRepoLink
+
+Cybersecurity Basics Practice  
+Security fundamentals, best practices, and system protection concepts.  
+🔗 https://github.com/YourRepoLink
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities with international tech companies where I can:
+- Build scalable mobile and AI-driven solutions
+- Grow as a software engineer
+- Contribute to secure and high-quality systems
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YourLinkedIn">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42"/>
+</a>
+<a href="https://instagram.com/YourInstagram">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="42"/>
+</a>
+<a href="https://discord.gg/YourDiscord">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="42"/>
+</a>
+<a href="https://t.me/YourTelegram">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="42"/>
+</a>
+</p>
+
+---
+
+⭐️ *Projects over words. Skills over claims. Ready for global challenges.*
