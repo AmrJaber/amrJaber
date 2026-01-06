@@ -51,25 +51,6 @@ Networks & Cybersecurity.
 
 ## 📂 Projects (Examples)
 
-### 📱 Flutter 
-- Project Name  
-  _Description goes here…_  
-  🔗 --: https://github.com/amrjaberj1/ProjectName
-
-### 📊 Data Science 
-- Project Name  
-  _Description goes here…_  
-  🔗 --: https://github.com/amrjaberj1/ProjectName
-
-### 🤖 AI & Automation 
-- Project Name  
-  _Description goes here…_  
-  🔗 --: https://github.com/amrjaberj1/ProjectName
-
-### 🔐 Networks & Security
-- Project Name  
-  _Description goes here…_  
-  🔗 --: https://github.com/amrjaberj1/ProjectName
 
 ---
 
