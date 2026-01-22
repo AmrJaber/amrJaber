@@ -1,4 +1,4 @@
-<h1 align="center">AmrJaber 🧛🏻</h1>
+<h1 align="center">AmrJaber </h1>
 <h3 align="center"> Flutter Mobile Developer  (Android & iOS) | Data • AI • Automation</h3>
 
 <p align="center">
